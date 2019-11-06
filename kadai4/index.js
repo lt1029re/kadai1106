@@ -14,3 +14,6 @@ const sum = (n) => {
 }
 const result2 = sum(500)
 console.log(result2)
+
+setTimneout(() => {console.log('hello')},3000)
+console.log(setTimeout)
